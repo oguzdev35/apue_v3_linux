@@ -3,6 +3,8 @@
 
 /*
   Listing the names of all the files in a directory.
+  usage:
+     ./intro/ls /dev
 */
 int main(int argc, char const *argv[])
 {
