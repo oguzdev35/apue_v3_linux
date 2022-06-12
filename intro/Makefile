@@ -1,7 +1,8 @@
 ROOT=..
 include $(ROOT)/Make.defines.linux
 
-PROGS =	ls
+PROGS =	ls cat getcputc hello shell1 \
+	testerror uidgid shell2
 
 all:	$(PROGS)
 
