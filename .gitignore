@@ -1,2 +1,7 @@
+# build outputs
 **/*.o
 **/*.a
+
+# some exceptions
+**/*file.hole* 
+**/*file.nohole* 

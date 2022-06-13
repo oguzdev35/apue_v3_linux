@@ -1,0 +1,8 @@
+conf
+conf.c
+options
+options.c
+pathconf.sym
+pathopt.sym
+sysconf.sym
+sysopt.sym

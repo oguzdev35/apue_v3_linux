@@ -7,7 +7,7 @@ include $(ROOT)/Make.defines.linux
 LIBMISC	= libapue.a
 OBJS   = error.o 
 
-all:	$(LIBMISC) sleep.o
+all:	$(LIBMISC) sleep.o pathalloc.o openmax.o
 
 $(LIBMISC):	$(OBJS)
 	$(AR) rv $(LIBMISC) $?
