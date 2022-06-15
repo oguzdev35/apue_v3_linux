@@ -13,3 +13,15 @@
 
 ### File Bigger Than 2GB problem
 > https://digital-domain.net/largefiles.html
+### IO Buffer in Linux
+> https://lwn.net/Articles/457667/
+### IOCTL example
+> https://linuxhint.com/c-ioctl-function-usage/
+
+
+### UNI COURSES
+> http://www.cs.otago.ac.nz/cosc440/    (COSC440: Advanced Operating System)
+> http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/spring2006/index.html (CENG425: System Programming)
+> https://pdos.csail.mit.edu/6.S081/2021/schedule.html (6.S081: Operating System Engineering)
+> https://www.usna.edu/Users/cs/wcbrown/courses/IC221/ (IC221: Systems Programming)
+> 
