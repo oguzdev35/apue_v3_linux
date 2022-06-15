@@ -1,7 +1,8 @@
 ROOT=..
 include $(ROOT)/Make.defines.linux
 
-PROGS =	seektest seektest2 hole
+PROGS =	seektest seektest2 hole \
+	ioefficiency
 
 all:	$(PROGS)
 

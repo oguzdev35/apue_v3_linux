@@ -3,5 +3,5 @@
 **/*.a
 
 # some exceptions
-**/*file.hole* 
-**/*file.nohole* 
+**/*file.* 
+**/*file.* 
