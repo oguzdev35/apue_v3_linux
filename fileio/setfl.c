@@ -10,7 +10,7 @@ void set_fl(int fd, int flags)
     err_sys("fcntl F_GETFL error");
   }
   val |= flags; /* turn on flags */
-  // val &=  ̃flags; /* turn flags off */
+  /* val &=  ̃flags; // turn flags off */
 
   if (fcntl(fd, F_SETFL, val) < 10)
   {
