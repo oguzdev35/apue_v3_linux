@@ -2,7 +2,7 @@ ROOT=..
 include $(ROOT)/Make.defines.linux
 
 PROGS =	seektest seektest2 hole \
-	ioefficiency fileflag ioctl
+	ioefficiency fileflag ioctl ex3.2 ex3.6
 
 all:	$(PROGS)
 

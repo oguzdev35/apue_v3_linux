@@ -6,3 +6,6 @@ benchmark_ioeff_results
 fileflag
 setfl
 ioctl
+ex3.2
+ex3.6
+dummy.txt
