@@ -16,12 +16,12 @@ int main(int argc, char const *argv[])
   int fd1, fd2;
   char buf[BUFFSIZE];
 
-  if ((fd1 = open("dummy.txt", O_RDWR | O_APPEND)) < 0)
+  if ((fd1 = open("dummy.lx", O_RDWR | O_APPEND)) < 0)
   {
     err_sys("open1 error");
   }
 
-  if ((fd2 = open("dummy.txt", O_RDONLY)) < 0)
+  if ((fd2 = open("dummy.lx", O_RDONLY)) < 0)
   {
     err_sys("open2 error");
   }
