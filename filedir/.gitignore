@@ -6,3 +6,8 @@ umask
 bar
 foo
 changemod
+unlink
+tempfile
+futimens
+ftw
+devrdev
