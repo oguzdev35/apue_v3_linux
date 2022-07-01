@@ -23,6 +23,7 @@
 ### file articles
 
 > http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.7085&rep=rep1&type=pdf
+> https://utcc.utoronto.ca/~cks/space/blog/unix/ReaddirHistory
 
 ### UNI COURSES
 

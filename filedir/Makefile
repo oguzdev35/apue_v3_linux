@@ -3,7 +3,7 @@ include $(ROOT)/Make.defines.linux
 
 PROGS =	filetype access umask \
 	changemod unlink futimens \
-	devrdev
+	devrdev ex4-1
 MOREPROGS = ftw
 
 all:	$(PROGS) $(MOREPROGS)
