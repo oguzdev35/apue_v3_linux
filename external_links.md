@@ -22,8 +22,18 @@
 
 ### file articles
 
-> http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.7085&rep=rep1&type=pdf
-> https://utcc.utoronto.ca/~cks/space/blog/unix/ReaddirHistory
+> http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.7085&rep=rep1&type=pdf  
+> https://utcc.utoronto.ca/~cks/space/blog/unix/ReaddirHistory  
+> https://insanecoding.blogspot.com/2007/11/pathmax-simply-isnt.html
+
+## jail
+
+> https://linuxhint.com/setup-linux-chroot-jails/  
+> https://lwn.net/Articles/531114/#series_index
+
+### standard streams
+
+> https://cseweb.ucsd.edu/classes/fa01/cse221/papers/ritchie-stream-io-belllabs84.pdf
 
 ### UNI COURSES
 
