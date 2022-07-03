@@ -33,7 +33,8 @@
 
 ### standard streams
 
-> https://cseweb.ucsd.edu/classes/fa01/cse221/papers/ritchie-stream-io-belllabs84.pdf
+> https://cseweb.ucsd.edu/classes/fa01/cse221/papers/ritchie-stream-io-belllabs84.pdf  
+> https://www.oreilly.com/library/view/c-in-a/0596006977/re90.html
 
 ### UNI COURSES
 
@@ -41,3 +42,8 @@
 > http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/spring2006/index.html (CENG425: System Programming)
 > https://pdos.csail.mit.edu/6.S081/2021/schedule.html (6.S081: Operating System Engineering)
 > https://www.usna.edu/Users/cs/wcbrown/courses/IC221/ (IC221: Systems Programming)
+> https://web.eng.fiu.edu/watsonh/EEL2880/index.html
+
+### BLOGS
+
+> http://www.catb.org/esr/
