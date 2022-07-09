@@ -1,7 +1,7 @@
 ROOT=..
 include $(ROOT)/Make.defines.linux
 
-PROGS =	fwide
+PROGS =	fwide vprintf buf
 
 all:	$(PROGS)
 

@@ -1,2 +1,6 @@
 widetest.txt
 fwide
+vprintf
+buf
+std.err
+std.out
