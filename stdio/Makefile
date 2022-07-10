@@ -1,7 +1,8 @@
 ROOT=..
 include $(ROOT)/Make.defines.linux
 
-PROGS =	fwide vprintf buf
+PROGS =	fwide vprintf buf tempfiles mkstemp \
+	memstr
 
 all:	$(PROGS)
 

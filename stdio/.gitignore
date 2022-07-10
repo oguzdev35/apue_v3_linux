@@ -4,3 +4,6 @@ vprintf
 buf
 std.err
 std.out
+tempfiles
+mkstemp
+memstr

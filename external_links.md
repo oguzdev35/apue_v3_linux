@@ -36,6 +36,10 @@
 > https://cseweb.ucsd.edu/classes/fa01/cse221/papers/ritchie-stream-io-belllabs84.pdf  
 > https://www.oreilly.com/library/view/c-in-a/0596006977/re90.html
 
+### stdio defects
+
+> http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6574&rep=rep1&type=pdf (SFIO: Safe/Fast String/File IO)
+
 ### UNI COURSES
 
 > http://www.cs.otago.ac.nz/cosc440/ (COSC440: Advanced Operating System)
