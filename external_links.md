@@ -46,7 +46,7 @@
 > http://boron.physics.metu.edu.tr/ozdogan/SystemsProgramming/spring2006/index.html (CENG425: System Programming)
 > https://pdos.csail.mit.edu/6.S081/2021/schedule.html (6.S081: Operating System Engineering)
 > https://www.usna.edu/Users/cs/wcbrown/courses/IC221/ (IC221: Systems Programming)
-> https://web.eng.fiu.edu/watsonh/EEL2880/index.html
+> https://web.eng.fiu.edu/watsonh/EEL2880/index.html > https://web.ecs.syr.edu/~wedu/Teaching/ (security)
 
 ### BLOGS
 
