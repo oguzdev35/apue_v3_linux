@@ -40,6 +40,18 @@
 
 > http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6574&rep=rep1&type=pdf (SFIO: Safe/Fast String/File IO)
 
+### nonlocal gotos
+
+> https://www.csl.mtu.edu/cs4411.ck/www/NOTES/non-local-goto/ > https://www.csl.mtu.edu/cs4411.ck/www/NOTES/non-local-goto/important-note.html
+
+### answers
+
+> https://vaqeteart.gitee.io/file_bed/shared/books/APUE2/toc.html
+
+### Swapping and Paging (process)
+
+> https://superuser.com/questions/377572/what-is-the-main-purpose-of-the-swapper-process-in-unix > https://www.folkstalk.com/2011/11/swapping-and-paging-in-unix.html > https://www.studytonight.com/operating-system/difference-between-paging-and-swapping > https://unix.stackexchange.com/questions/13290/init-process-ancestor-of-all-processes
+
 ### UNI COURSES
 
 > http://www.cs.otago.ac.nz/cosc440/ (COSC440: Advanced Operating System)
@@ -47,6 +59,10 @@
 > https://pdos.csail.mit.edu/6.S081/2021/schedule.html (6.S081: Operating System Engineering)
 > https://www.usna.edu/Users/cs/wcbrown/courses/IC221/ (IC221: Systems Programming)
 > https://web.eng.fiu.edu/watsonh/EEL2880/index.html > https://web.ecs.syr.edu/~wedu/Teaching/ (security)
+> https://www.csl.mtu.edu/cs4411.ck/www/
+> https://www.cs.fsu.edu/~xyuan/
+> https://courses.cs.duke.edu/cps110/
+> https://www.cs.nott.ac.uk/~pszgxk/courses/g53ops/index.html
 
 ### BLOGS
 

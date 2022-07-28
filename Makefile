@@ -1,5 +1,5 @@
 DIRS = lib intro standards fileio \
-	filedir stdio datafiles
+	filedir stdio datafiles environ
 
 all:
 	for i in $(DIRS); do \
