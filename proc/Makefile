@@ -1,7 +1,9 @@
 ROOT=..
 include $(ROOT)/Make.defines.linux
 
-PROGS =	fork1
+PROGS =	fork1 vfork1 wait1 fork2 \
+	zombie1 racecond racecond_prevented \
+	exec1
 
 all:	$(PROGS)
 

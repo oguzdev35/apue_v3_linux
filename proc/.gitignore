@@ -1,2 +1,9 @@
 fork1
 temp.out
+vfork1
+wait1
+fork2
+zombie1
+racecond
+racecond_prevented
+exec1
